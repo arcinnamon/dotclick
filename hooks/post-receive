@@ -1,0 +1,2 @@
+#!/bin/sh
+GIT_WORK_TREE=/home/ec2-user/andrewcinnamon.click git checkout -f main
