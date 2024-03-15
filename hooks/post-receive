@@ -1,2 +1,4 @@
 #!/bin/sh
-GIT_WORK_TREE=/home/ec2-user/andrewcinnamon.click git checkout -f main
+#GIT_WORK_TREE=/home/ec2-user/andrewcinnamon.click git checkout -f main
+
+sudo cp index.html /var/www/html/
